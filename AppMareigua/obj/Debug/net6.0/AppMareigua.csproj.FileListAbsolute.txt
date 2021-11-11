@@ -1,0 +1,16 @@
+C:\Users\seramirez\Desktop\tASK\AppMareigua\bin\Debug\net6.0\AppMareigua.exe
+C:\Users\seramirez\Desktop\tASK\AppMareigua\bin\Debug\net6.0\AppMareigua.deps.json
+C:\Users\seramirez\Desktop\tASK\AppMareigua\bin\Debug\net6.0\AppMareigua.runtimeconfig.json
+C:\Users\seramirez\Desktop\tASK\AppMareigua\bin\Debug\net6.0\AppMareigua.dll
+C:\Users\seramirez\Desktop\tASK\AppMareigua\bin\Debug\net6.0\ref\AppMareigua.dll
+C:\Users\seramirez\Desktop\tASK\AppMareigua\bin\Debug\net6.0\AppMareigua.pdb
+C:\Users\seramirez\Desktop\tASK\AppMareigua\obj\Debug\net6.0\AppMareigua.GlobalUsings.g.cs
+C:\Users\seramirez\Desktop\tASK\AppMareigua\obj\Debug\net6.0\AppMareigua.csproj.AssemblyReference.cache
+C:\Users\seramirez\Desktop\tASK\AppMareigua\obj\Debug\net6.0\AppMareigua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seramirez\Desktop\tASK\AppMareigua\obj\Debug\net6.0\AppMareigua.AssemblyInfoInputs.cache
+C:\Users\seramirez\Desktop\tASK\AppMareigua\obj\Debug\net6.0\AppMareigua.AssemblyInfo.cs
+C:\Users\seramirez\Desktop\tASK\AppMareigua\obj\Debug\net6.0\AppMareigua.csproj.CoreCompileInputs.cache
+C:\Users\seramirez\Desktop\tASK\AppMareigua\obj\Debug\net6.0\AppMareigua.dll
+C:\Users\seramirez\Desktop\tASK\AppMareigua\obj\Debug\net6.0\ref\AppMareigua.dll
+C:\Users\seramirez\Desktop\tASK\AppMareigua\obj\Debug\net6.0\AppMareigua.pdb
+C:\Users\seramirez\Desktop\tASK\AppMareigua\obj\Debug\net6.0\AppMareigua.genruntimeconfig.cache
